@@ -1,0 +1,7 @@
+langchain-openai
+langchain-core
+langchain-community
+python-dotenv
+pypdf
+docx2txt
+unstructured

@@ -1,0 +1,10 @@
+requests
+pandas
+langchain-core
+langchain-community
+langchain-openai
+langgraph
+python-dotenv
+docx2txt
+pypdf
+unstructured

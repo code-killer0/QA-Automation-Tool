@@ -1,0 +1,27 @@
+{
+  "total_rows": 559,
+  "working": 235,
+  "not_working": 324,
+  "pass_rate_pct": 42.0,
+  "breakdown_by_reason": {
+    "expected_400_matched": 194,
+    "expected_200_got_422": 69,
+    "non_2xx_response": 65,
+    "ws_http_fallback_non_match": 58,
+    "expected_200_got_400": 48,
+    "expected_503_got_422": 22,
+    "expected_200_matched": 21,
+    "expected_401_got_422": 21,
+    "expected_200_got_404": 17,
+    "ok": 11,
+    "expected_404_matched": 9,
+    "unsupported_function_mapping": 6,
+    "expected_400_got_500": 5,
+    "expected_400_got_200": 5,
+    "expected_404_got_200": 2,
+    "expected_503_got_400": 2,
+    "expected_404_got_422": 2,
+    "expected_100_got_404": 1,
+    "expected_200_got_405": 1
+  }
+}
